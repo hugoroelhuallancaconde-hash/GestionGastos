@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC 1\\Desktop\\PROYECTO_GASTOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F92199-A8A7-43D7-9210-59ED69E243C9}|gastos\\gastos_semana6.csproj|C:\\Users\\PC 1\\Desktop\\PROYECTO_GASTOS\\gastos\\views\\frmgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42F92199-A8A7-43D7-9210-59ED69E243C9}|gastos\\gastos_semana6.csproj|solutionrelative:gastos\\views\\frmgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F92199-A8A7-43D7-9210-59ED69E243C9}|gastos\\gastos_semana6.csproj|c:\\users\\pc 1\\desktop\\proyecto_gastos\\gastos\\views\\frmgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F92199-A8A7-43D7-9210-59ED69E243C9}|gastos\\gastos_semana6.csproj|solutionrelative:gastos\\views\\frmgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGastos.cs",
+              "DocumentMoniker": "C:\\Users\\PC 1\\Desktop\\PROYECTO_GASTOS\\gastos\\Views\\frmGastos.cs",
+              "RelativeDocumentMoniker": "gastos\\Views\\frmGastos.cs",
+              "ToolTip": "C:\\Users\\PC 1\\Desktop\\PROYECTO_GASTOS\\gastos\\Views\\frmGastos.cs",
+              "RelativeToolTip": "gastos\\Views\\frmGastos.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:34:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGastos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC 1\\Desktop\\PROYECTO_GASTOS\\gastos\\Views\\frmGastos.cs",
+              "RelativeDocumentMoniker": "gastos\\Views\\frmGastos.cs",
+              "ToolTip": "C:\\Users\\PC 1\\Desktop\\PROYECTO_GASTOS\\gastos\\Views\\frmGastos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gastos\\Views\\frmGastos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:21:34.505Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
